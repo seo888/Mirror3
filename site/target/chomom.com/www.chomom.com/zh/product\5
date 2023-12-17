@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>业务范围_业务范围_湖南昌茂电能发展有限公司</title>               
+<meta name="keywords" content="湖南昌茂电能发展有限公司">
+<meta name="description" content="业务范围-湖南昌茂电能发展有限公司">
+<meta name='viewport' content='width=1440' />
+<link href="//static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1670463232000&tenantId=229701&viewType=1" rel="stylesheet" type="text/css" />
+<link href="//static202.yun300.cn/css/site_impt_r.css?v=1670463232000&tenantId=229701&viewType=1" rel="stylesheet" type="text/css" />
+<link href="//static202.yun300.cn/css/ftmpl_impt_874def08-889c-4a48-8d9d-eb5cade0e90e.css?v=1670463232000&tenantId=229701&viewType=1" rel="stylesheet" type="text/css" />
+<link href="//static202.yun300.cn/css/page_impt_products.css?v=1670463232000&tenantId=229701&viewType=1" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name='viewport' content='width=1440' />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<script type="text/javascript">
+    window.siteIsPc=true;
+    window.foreignList= [];
+    window.tenant = {"cdnFlag":"2","createTime":null,"domain":"www.chomom.com","domainInfo":null,"foreign":true,"id":229701,"language":"zh_CN","mobileDomain":"","mobileStatus":8,"status":6,"templateCode":"global_site_standard","tenantCode":"100001_2102205002","unittype":"100001","verify":"266838c1161b63eb338a82a8d27f356c","mverify":""};
+    window.commonShortUrl = ("http://www.ceurl.cn" == "") ? "" : "http://www.ceurl.cn" + "/";
+    window.upgradeVersion="06c7cb8d798d26e98fd393f3e3750e12";
+    var isxinnet = "false";
+    window.noredirectCookieName = "_noredirect";
+    var visittrack_siteId = "100001_2102205002";
+    var visittrack_url = "";
+    var gatherScripts = "";
+    var unittype=window.tenant.unittype ;
+    window.globalObj={};
+    window.globalObj.isOpenSSL = false;
+    if(!(unittype == '100009'||unittype == '100084' ||unittype == '100007' )){  
+        window.intelligetJump={"identification":"false"};//智能跳转
+    }
+    if(unittype == '100001'&& window.tenant.language != 'zh_CN'){
+        window.getMultilingual={"website":"{\"zh_CN\":\"www.chomom.com\"}","switcher":"off"};//多语言和获取网站url对象
+    }
+    try{
+        var setDomain = window.location.hostname.replace("http://", "").replace("https://", "");
+        if (setDomain.match(/[a-z]+/) != null) {
+            var domainArr = setDomain.split(".");
+            var preDomain=domainArr[domainArr.length - 2] + "."
+                + domainArr[domainArr.length - 1];
+            if(/(com|cn|org|net|xin|edu|ac)\..*/.test(preDomain)){
+                preDomain=domainArr[domainArr.length - 3]+"."+domainArr[domainArr.length - 2] + "."
+                    + domainArr[domainArr.length - 1];
+            }
+            document.domain = preDomain;
+        }
+    }catch(e){
+        console.log(e);
+    }
+</script>
+<script type="text/javascript" src="//static202.yun300.cn/public/wgt/coreLibs/cecc/interwords/interwords_zh_CN.min.js,libs.min.js?v=06c7cb8d798d26e98fd393f3e3750e12&tenantId=229701&viewType=1"></script>
+<script>
+    $(function(){
+        // 灰色主题
+        if(!(unittype == '100009'||unittype == '100084' ||unittype == '100007' )){
+            var qxurl = location.href.replace(location.origin,'')
+            if(qxurl == '/' || qxurl == '') {
+                var grayStatus = {"greySwitchStatus":"false"};
+                var greySwitchStatusData = {};
+                if(typeof(grayStatus) == 'string' && /^{/.test(grayStatus)){
+                    greySwitchStatusData = JSON.parse(grayStatus);
+                }else if(typeof(grayStatus) == 'object'){
+                    greySwitchStatusData = grayStatus;
+                }
+                if(greySwitchStatusData && greySwitchStatusData.greySwitchStatus == 'true'){ 
+                    $("html").css("cssText", "filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1) !important");
+                    $("html").css("cssText", "-webkit-filter: grayscale(100%) !important");
+                }
+            }
+            // 飘窗
+            require(['/public/cjgj/common.js'], function(){})
+        }
+    });
+    if(!(window.tenant.unittype=='100084'||window.tenant.unittype=='100009')&&isFrontEnv()&&!window.noAuth){
+        var qxurl = location.href.replace(location.origin,'')
+        if(qxurl != '/') {
+            $.ajax({
+                url:'/comp/authtion.do',
+                method:'get',
+                data:{
+                    url:qxurl
+                },
+                success:function(res){
+                    if(res.status == 300 && res.data!=''){
+                        window.location.href=res.data
+                    }
+                },
+                error:function(err){
+                    console.log(err);
+                }
+            }); 
+        }
+    }
+</script><meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="applicable-device" content="pc,mobile" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+</head>
+<body>
+	<div class="main pagebox"><div id="w_grid-1566009176840" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1566009176840-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1572666596036" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1572666596036-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1572666603096" class="w_grid-003"><div class="w_grid ">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1572666603096-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_fimg-1572666616553" class="w_fimg-000"><div class="w_img animated  ">  <div class="e_box e_box-000 p_box">   <a href="/null" class="e_link e_link-000 p_link001" target="_blank">            <div class="e_image e_DImage-001 p_dimage">            <img src="//img202.yun300.cn/img/xinlogopng_03.png?tenantId=229701&viewType=1&k=1670463232000"   width="100%" height="100%" />           </div>             </a>           </div> </div></div></div>         <div id="content_box-1572666603096-1" class="e_box e_box-000 d_gridCell_1 p_gridCell"><div id="c_portalResnav_main-15726666284220989" class="c_portalResnav_main-01001"> 
+<div class="tNavBox">
+    <div class="navBtn ">
+        <span class="navLine ">
+      	 	<img src="//dfs.yun300.cn/group1/M00/04/D3/rBQBHVzbjTCEGGXcAAAAAGxbO1g318.png"  class="navBtnImg">
+       </span>
+    </div>
+    <nav class="tNav">
+        <ul class="navUl">
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/" class="navName" data->首页</a>
+                </h3>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/profile.html" class="navName" data->关于昌茂</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/101c403f-5b3b-4ac9-a699-fb9fb3151f6b.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">关于昌茂</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/profile.html" class="navSlink">公司概况</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/honor.html" class="navSlink">荣誉资质</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/honor1.html" class="navSlink">发展历程</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/cuture.html" class="navSlink">企业愿景</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/16.html" class="navSlink">企业风采</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/17.html" class="navSlink">合作单位</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/honor11.html" class="navSlink">人才招聘</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/contact.html" class="navSlink">联系我们</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/product/5/" class="navName" data->业务范围</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/213a83be-68b0-4876-aea2-e6353fed267a.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">业务范围</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/product/6/" class="navSlink">新能源汽车充电站建设</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/product/7/" class="navSlink">新能源汽车充电桩运营及技术服务</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/product/8/" class="navSlink">新能源汽车租售</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/product/9/" class="navSlink">新能源汽车充电信息化平台开发运营</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/product/20/" class="navSlink">摩托车充电站建设</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/news/1/" class="navName" data->成功案例</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/978eb6c3-4c83-4585-9876-233601cd9013.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">成功案例</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/news/6/" class="navSlink">新能源汽车充电站</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/news/7/" class="navSlink">新能源电动摩托车充电站</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/intro/10.html" class="navName" data->定制服务</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/0083d7da-dd36-4f35-8b11-89a812fe05f2.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">定制服务</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/intro/18.html" class="navSlink">车联网平台</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/10.html" class="navSlink">新能源电能</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/11.html" class="navSlink">售电</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/12.html" class="navSlink">充换电站</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/13.html" class="navSlink">电线电缆</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/14.html" class="navSlink">文体用品</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/15.html" class="navSlink">电池循环利用</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/news/2/" class="navName" data->最新动态</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/52e7fe8c-df32-4acd-ae0c-443b674f3da5.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">最新动态</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/news/3/" class="navSlink">公司新闻</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/news/5/" class="navSlink">团建活动</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/news/4/" class="navSlink">行业资讯</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/news/9/" class="navSlink">领导关怀</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                        <li class="navLi">
+                <h3 class="tNavH">
+                    <a href="/intro/8.html" class="navName" data->服务支持</a>
+                                        <i class="iconfont iconJt"></i>
+                </h3>
+                                <div class="slidBox">
+                    <div class="leftBox right_img">
+                      <img src="/repository/image/c4e674d7-4803-4dfc-85fe-4f9d81b23dff.jpg"  class="img100">
+                    </div>
+                  <div class="rightBox left_text">
+                    <div class="onetitle">服务支持</div>
+                    <ul class="navSbox">
+                                                <li class="navSli">
+                            <a href="/intro/8.html" class="navSlink">服务站点</a>
+                        </li>
+                                                <li class="navSli">
+                            <a href="/intro/9.html" class="navSlink">产品使用手册</a>
+                        </li>
+                    </ul>
+                  </div>
+                  </div>
+                            </li>
+                       <li class="navSliBtn">
+              <img src="//dfs.yun300.cn/group1/M00/16/B2/rBQBG1zbmyWEN4RmAAAAALH4Lns568.png"  class="hs">
+            </li>
+        </ul>
+    </nav>
+</div>
+<script>
+       var _li =$('.tNav .navUl').children('.navLi');
+       _li.each(function(i, e) {
+           $(this).addClass('nav0'+(i+1));
+       });
+  $('.navBtn').on('click',function(){
+      $(this).siblings('.tNav').toggleClass('tNavHeight');
+  });
+  $('.navSliBtn').on('click',function(){
+      $('.tNav').removeClass('tNavHeight');
+  });
+  $('.iconJt').on('click',function(){
+      $(this).toggleClass('iconJtRotate')
+      .parents('.navLi').siblings('.navLi')
+      .find('.slidBox').slideUp().end()
+      .find('.tNavH').removeClass('tNavHBac').end()
+      .find('.iconJt').removeClass('iconJtRotate').end().end().end()
+      .parent('.tNavH').addClass('tNavHBac').siblings('.slidBox').slideToggle();
+  });
+  $("div[id^='c_portalResnav_main']").attr("loaded","true");
+</script>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+    $(".nav09 a.navName").attr('disabled', 'true');
+    $(".nav09 a.navName").attr('datahref',$(".nav09 a.navName").attr("href"));
+    $(".nav09 a.navName").removeAttr('href');
+           });
+</script>
+</div></div>         <div id="content_box-1572666603096-2" class="e_box e_box-000 d_gridCell_2 p_gridCell"><div id="c_portalResPublic_codeContainer-15726666229521495" class="c_portalResPublic_codeContainer-01001"> 
+<div class="e_box"></div>
+<script>
+$comp({
+	 	id:"portalResPublic_codeContainer-15726666229521495",//实例id 服务器传
+	  	lib:["js/portalPublic/portalResPublic_codeContainer-01"] //组件js
+});
+</script>
+<a  href="tel:400-198-5558"><div class="head_lan">
+  <div class="lan_con">
+   <span class="lan_tit">
+      <span>400-198-5558</span>
+    </span>
+  </div>
+</div>
+</a>
+<script>
+	$(function(){
+		$(".head_lan .lan_con").hover(function(){
+			$(this).find(".lan_list").addClass("cur");
+		},function(){
+			$(this).find(".lan_list").removeClass("cur");
+		})
+	})
+</script>
+<script>
+    $(window).scroll(function(){
+         if($(window).scrollTop()>0){
+            $('#w_grid-1572666596036a').addClass('fixed')
+            $('#w_fimg-1572666616553a').addClass('fixed')
+            $('.tNav').addClass('fixed')
+            $('.head_lan').addClass('fixed')
+        }else{
+            $('#w_grid-1572666596036a').removeClass('fixed')
+            $('#w_fimg-1572666616553a').removeClass('fixed')
+            $('.tNav').removeClass('fixed')
+            $('.head_lan').removeClass('fixed')
+      }
+    })
+    //触控吸顶
+    $('#w_grid-1572666596036a').mouseenter(function(){
+      $('#w_grid-1572666596036a').addClass('fixed')
+      $('#w_fimg-1572666616553a').addClass('fixed')
+      $('.tNav').addClass('fixed')
+      $('.head_lan').addClass('fixed')
+    }).mouseleave(function(){
+        if($(window).scrollTop()==0){
+          $('#w_grid-1572666596036').removeClass('fixed')
+          $('#w_fimg-1572666616553').removeClass('fixed')
+          $('.tNav').removeClass('fixed')
+          $('.head_lan').removeClass('fixed')
+        }
+    });
+</script>
+</div></div>       </div>  </div></div></div>       </div>  </div></div><div id="w_grid-1567499140195" class="w_grid-000" data-tmpleditable="editable"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1567499140195-0" class="e_box e_box-000 d_gridCell_0 p_gridCell ND_empty" data-editablecontent="1567499140195"><div id="w_grid-1590456862889" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1590456862889-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="c_portalResEbizads_banner-16170115248171604" class="c_portalResEbizads_banner-01001"> 
+<div class="subpage_ad">
+		<div class="bgimg pcitem" style="background-image: url(/repository/image/48ebb91a-3e0f-4dde-a6fd-2dc2d377c768.png)"></div>
+	<div class="bgimg mobitem" style="background-image: url(/repository/image/48ebb91a-3e0f-4dde-a6fd-2dc2d377c768.png)"></div>
+	<div class="text capitalize">
+		<div class="ad-tit">业务范围</div>
+      <div class="ad-line"></div>
+		<div class="ad-sum">致力于为客户提供安全、环保、稳定、先进、高效的两型产品和绿色服务</div>
+	</div>
+	</div>
+<script>
+		$(function(){
+			$(window).scroll(function(){
+				var flag="+";
+				if ($(window).scrollTop() > 0) {
+					var k2 = $(window).scrollTop()/2;
+					k2<0?flag=" -":" +";
+					$(".subpage_ad .bgimg.pcitem").css("background-position-y","calc(50% "+ flag + " " + Math.abs(k2) +"px)");
+				}else{
+				   $(".subpage_ad .bgimg.pcitem").css("background-position-y","50%");
+				}
+			})
+		});
+</script>
+<script>$("div[id^='c_']").attr("loaded","true")</script>
+ <input class="requsetParam"  type="hidden" value=""/>
+</div><div id="w_grid-1605671367110" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1605671367110-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1622702318157" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1622702318157-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1620798663598" class="w_grid-000"><div class="w_grid ">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1620798663598-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="c_portalResProduct_category-16207986641128760" class="c_portalResProduct_category-01001"> 
+ <div class="e_box p_problemCategory">
+    <span class="e_btn btn btn-primary p_btn-show" data-ename="点击按钮">
+        全部分类        <i class="e_icon iconfont"></i>
+    </span>
+    <div class="e_box p_category" data-ename="分类容器">
+        <div class="e_btn p_btn-hide background_assist">
+            <span class="icons color_horizon background_sort">
+                <i class="e_icon iconfont p_c-fff"></i>
+            </span>
+        </div>
+        <div class="e_box p_categoryBox js_categoryBox" data-ename="分类外框">
+                                    <div class="e_box p_parentBox" sortid="6">
+                <div class="e_link p_linkBox p_linkBox1">
+                    <a class="e_title p_title" href="/product/6/" target="_self">新能源汽车充电站建设</a>
+                    <i class="e_icon iconfont icon-arrow_up p_categoryBtn color_assist js_clickbtn"
+                        data-ename="分类图标"></i>
+                                    </div>
+                <div class="e_box p_childBox cateBox2">
+                                                            <div class="e_box p_parentBox" sortid="16">
+                        <div class="e_link p_linkBox">
+                            <a class="e_title p_title" href="/product/16/" target="_self">昌茂换充电</a>
+                                                    </div>
+                                            </div>
+                                                            <div class="e_box p_parentBox" sortid="17">
+                        <div class="e_link p_linkBox">
+                            <a class="e_title p_title" href="/product/17/" target="_self">充电专用车位</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                            </div>
+                                    <div class="e_box p_parentBox" sortid="7">
+                <div class="e_link p_linkBox p_linkBox1">
+                    <a class="e_title p_title" href="/product/7/" target="_self">新能源汽车充电桩运营及技术服务</a>
+                    <i class="e_icon iconfont icon-arrow_up p_categoryBtn color_assist js_clickbtn"
+                        data-ename="分类图标"></i>
+                                    </div>
+                <div class="e_box p_childBox cateBox2">
+                                                            <div class="e_box p_parentBox" sortid="18">
+                        <div class="e_link p_linkBox">
+                            <a class="e_title p_title" href="/product/18/" target="_self">充电桩运营</a>
+                                                    </div>
+                                            </div>
+                                                            <div class="e_box p_parentBox" sortid="19">
+                        <div class="e_link p_linkBox">
+                            <a class="e_title p_title" href="/product/19/" target="_self">技术支持</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                            </div>
+                                    <div class="e_box p_parentBox" sortid="8">
+                <div class="e_link p_linkBox p_linkBox1">
+                    <a class="e_title p_title" href="/product/8/" target="_self">新能源汽车租售</a>
+                                    </div>
+                            </div>
+                                    <div class="e_box p_parentBox" sortid="9">
+                <div class="e_link p_linkBox p_linkBox1">
+                    <a class="e_title p_title" href="/product/9/" target="_self">新能源汽车充电信息化平台开发运营</a>
+                                    </div>
+                            </div>
+                                    <div class="e_box p_parentBox" sortid="20">
+                <div class="e_link p_linkBox p_linkBox1">
+                    <a class="e_title p_title" href="/product/20/" target="_self">摩托车充电站建设</a>
+                                    </div>
+                            </div>
+                    </div>
+    </div>
+</div>
+ <script>
+    $(function () {
+        require([
+            "wgt_util",
+            "wgt_readyload",
+            "jquery.mediaQuery"
+        ], function (util, ready) {
+            var id = "portalResProduct_category-16207986641128760"  // 组件ID
+            var scp = $compCl.getScope(id)  // 组件实例
+            var lightId = "5"; // 高亮id
+            //  容器清除浮动   *  解决二级下拉被隐藏的问题
+            scp.parents('.p_gridbox').css({
+                "overflow": "visible",
+                "zoom": 1
+            }).addClass('clearfix');
+            // 全端 : 导航高亮
+          //  scp.find('.p_parentBox').each(function (index, item) {
+          //      if ($(this).attr('sortid') == lightId) {
+            //        $(this).parents(".p_childBox").removeClass('hide')
+              //        .prevAll(".p_linkBox").children('.js_clickbtn').removeClass('icon-arrow_up').addClass('icon-arrow_down');
+             //       $(this).children('.p_linkBox').addClass("click");
+            //    }
+           // })
+            // 响应式
+            if ($.mediaQuery({
+                node: true
+            }) == 768) {
+                //  移动端要做的事
+                // 子集全部隐藏
+                  scp.find('.p_childBox').addClass('hide');
+                // 导航的展示与隐藏
+                $('.p_btn-show', scp).on('click', function () {
+                    $('.p_category', scp).toggleClass("animate")
+                });
+                $('.p_btn-hide', scp).on('click', function () {
+                    $('.p_category', scp).toggleClass("animate")
+                })
+                // 导航子集的展示与隐藏
+                scp.find('.js_categoryBox').on('click', '.js_clickbtn', function () {
+                    var $this = $(this);
+                    //控制同级互斥
+                    $this.closest('.p_parentBox').siblings('.p_parentBox').children('.p_childBox').addClass('hide')
+                      .siblings('div').children('.js_clickbtn').removeClass('icon-arrow_down').addClass('icon-arrow_up');
+                    //展开收起
+                    if ($this.hasClass('icon-arrow_down')) { //收起
+                        $this.removeClass('icon-arrow_down').addClass('icon-arrow_up');
+                        $this.closest('.p_parentBox').children('.p_childBox').addClass('hide');
+                    } else { //展开
+                        $this.removeClass('icon-arrow_up').addClass('icon-arrow_down');
+                        $this.closest('.p_parentBox').children('.p_childBox').removeClass('hide');
+                    }
+                    // 重新计算高度
+                    ready.setCompPostion();
+                })
+            } else if ($.mediaQuery({
+                node: true
+            }) == 7681024 || $.mediaQuery({
+                node: true
+            }) == 1024) {
+                // pc端 || pad端要做的事
+                // 子集全部 移除hide
+                  scp.find('.p_childBox').removeClass('hide');
+            }
+        })
+    });
+</script>
+<script>
+$(function(){
+  var time01=setInterval(function(){
+    var title= $.trim($("div[class*='c_portalResBreadcrumb_nav'] .e_breadcrumb:eq(1) .font span").text());
+      $(".p_linkBox .p_title").each(function(){
+        var l_m=$(this).text();
+        if(l_m==title){
+          $(this).parent().addClass("click");
+         clearInterval(time01);
+        } 
+      });
+  },100);
+  var time02=setInterval(function(){
+    var title= $.trim($("div[class*='c_portalResBreadcrumb_nav'] .e_breadcrumb:eq(2) .font span").text());
+      $(".p_linkBox .p_title").each(function(){
+        var l_m=$(this).text();
+        if(l_m==title){
+          $(this).parent().addClass("click")
+          clearInterval(time02);
+        } 
+      });
+  },100);
+})   
+</script>
+</div></div>         <div id="content_box-1620798663598-1" class="e_box e_box-000 d_gridCell_1 p_gridCell"><div id="c_portalResBreadcrumb_nav-16227022483440898" class="c_portalResBreadcrumb_nav-01001" data-vhide100p="true"> 
+<div class="e_box e_box-000 p_breadcrumbList" data-ename="面包屑导航">
+	<div class="e_breadcrumb e_breadcrumb-001 p_breadcrumbFirst">
+        <span class="weizhi"><i class="iconfont"></i>当前位置：</span>
+	<a href="/">
+		<div class="font">
+			<span><span class="i_homePage">首页</span></span>
+		</div>
+	</a>
+</div>
+<div class="e_title e_GuideLabel-001 p_end">
+		<div class="font"><span class="i_separator">/</span></div>
+</div>
+<div class="e_breadcrumb e_breadcrumb-000 p_breadcrumbCurrent">
+	<div class="font">
+		<span>业务范围</span>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+	$comp({
+		breadcrumbType:false,
+		contentFlag:"true",
+		contentWidth:"350",
+		ctx:"",
+		appId:"",
+		id : "portalResBreadcrumb_nav-16227022483440898",
+		lib : [ "js/portalResBreadcrumb/portalResBreadcrumb_nav"]
+	});
+</script></div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div><div id="w_grid-1590456862899" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1590456862899-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1590456862909" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1590456862909-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1590456862929" class="w_grid-001"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1590456862929-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1605858272573" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1605858272573-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="c_portalResProduct_list-16058582775242526" class="c_portalResProduct_list-01001"> 
+<input type="hidden" class="listAddUrl"
+    value="&gototype=add&productType=0&backType=picview&proshowcaseId=&proparentId=&appId=2">
+<input type="hidden" class="compConfigInProductCategoryId" value="-1" />
+<input type="hidden" class="listModifyUrl" value="&proparentId=&appId=2">
+<div class="proBox" data-ename="产品列表">
+        <div class="e_box proLists p_products" data-ename="产品列表框架区">
+        <div class="e_box p_Product proList" data-id="17" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/_SUu21qWR_6q14_copSPRg.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                充电专用车位
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/17.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="19" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/mX3TpEojQCOznfQ6SaT2SQ.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                PRS-7573系列交流-充电桩
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/19.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="20" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/VEdySMFvR4Si1koUse7fbg.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                PRS-7576系列一体式直流充电机
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/20.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="22" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/mGktsf3VST64-uH_6Jh-Dg.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                运营模式
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/22.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="21" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/NSxA_KUFSPuaRaaP4Ui9Nw.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                充电桩操作流程
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/21.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="23" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/ev0zV1zTSpuwXeniHP23Pg.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                昌茂车务-售车篇
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/23.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="24" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/NcxvVY9sSGCEPbFXzmjXNg.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                摩托车充电站建设
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/24.html"></a>
+        </div>
+        <div class="e_box p_Product proList" data-id="4" data-dismoveable data-foreachitem>
+            <div class="imgBox">
+                	 <img src="/upload/s.png" lazy-src="//img202.yun300.cn/repository/image/c4e64892-4b27-481f-a29c-138af7076c40.jpg_{i}xaf.jpg?tenantId=229701&viewType=1&k=1670463232000"  class='img js_thumb'  />
+	            </div>
+            <div class="d_title p_title titleBox">
+                新能源汽车充电信息化平台开发运营
+            </div>
+            <div class="p_summary keyBox d_summary">
+            </div>
+            <a class="link" target="_parent" href="/product/4.html"></a>
+        </div>
+            </div>
+    <div class="e_box e_OccupyBox-001 p_OccupyBox">
+					<div class="e_pagebox e_pagebox-000 p_page">
+				<div class="pre">
+	                	<div class="font">
+							<i class="iconfont"></i><span class="i_pre">上一页</span>	                    </div>
+	             </div>
+																											<div class="pageNum active">1</div>
+																				<div class="pageNum">2</div>
+																<div class="next">
+	                	<div class="font">
+							<i class="iconfont"></i><span class="i_next">下一页</span>	                    </div>
+	        	</div>
+                			</div>
+						<script type="text/javascript">
+				pagingVM=window.pagingVM||{};
+				pagingVM['portalResProduct_list-16058582775242526']={
+					totalPage:"2",
+					pageSize:"8",
+					currentPage:"1",
+					turnPageType:'turnPage',
+					style:"e_pagebox-000",
+					type:"true",
+					styleConfig:{
+						style:'e_MoreBtn-001',
+						zstyle:"p_more"
+					},
+					value:'查看更多',
+					moreGuide:'点击查看更多',
+					loading:{
+						styleConfig:{
+							style:'e_loading-001',
+							zstyle:"p_loading"
+						},
+						value:'拼命加载中，请稍后',
+					},
+					CommonInteraction:"true",
+					es_CommonSwitchBtnA:'e_IconSwitchBtn-002',
+					es_CommonSwitchBtnB:'e_IconSwitchBtn-002',
+					CommonSummaryBoxA:"true",
+					marquee_position:'down',
+					marquee_horizontal:'center',
+					es_CommonSquareNumBtn:'e_SquareNumBtn-001',
+					SquareNumBtn_size:'0',
+					SquareNumBtn_defWidth:"16",
+					SquareNumBtn_defHeight:"16",
+					marquee_autoPlay:"false",
+					marquee_autoPlayDuration:"3",
+					marquee_speed:"1",
+					scrollDirection:"1",
+					es_scroll:"e_scroll-001",
+					columnNum:"4",
+					lineNum:"2",
+					pre: "上一页",
+					next: "下一页"
+									}
+			</script>
+    </div>
+</div>
+<script type="text/javascript">
+    $comp({
+        textParams: {
+            isCutOfName: true, //标题是否自动截取超长显示内容
+            linesOfCutOfName: 1, //标题超出隐藏的行数设置
+            isCutOfSummary: true, //概述是否自动截取超长显示内容
+            linesOfCutOfSummary: 3, //概述超出隐藏的行数设置
+            categorySummary: true, //分类概述是否自动截取超长显示内容
+            categorySummaryMaxLen: 2 //分类概述超出隐藏的行数设置
+        },
+        picParams: {
+            isOpenCutMode: true, //是否开启裁剪 不开启false
+            isRate: true, //是否按比例裁剪
+            widthOfRate: 1, //宽度的比率
+            heightOfRate: 1, //高度的比率
+            definedDefaultImage: false, //是否设置默认图片
+            defaultImage: "", //设置默认图片的值
+            appId: '2'
+        },
+        ctx: "",
+        appId: "2",
+        productMode: "",
+        requestParam: {"orderType":"","xibcommonId":"5","appType":"productCateId","orderColumn":"","productCateId":"5"},
+        pageParam: {
+            url: "/comp/portalResProduct/list.do?compId=portalResProduct_list-16058582775242526",
+            appId: "2",
+            turnPageType: "turnPage"
+        },
+        id: "portalResProduct_list-16058582775242526",
+        lib: ["js/portalProduct/portalResProduct_list-01"],
+        imageOpts: {
+            "comp_w_size": "", //容器宽
+            /*大图*/
+            //列表类传值为空，避免图片外层盒子创建2次
+            "box_img_style_0": null,
+            "box_img_style_1": null,
+            "box_img_style_2": null,
+            "e_img_style_0": "e_image",
+            "e_img_style_1": "e_image-000",
+            "e_img_style_2": "p_image",
+            "e_a_img_style_0": "e_link",
+            "e_a_img_style_1": "e_link-000",
+            "e_a_img_style_2": "p_linkB",
+            "e_a_txt_style_0": "e_link",
+            "e_a_txt_style_1": "e_link-000",
+            "e_a_txt_style_2": "p_linkA",
+            //大图宽高比例
+            "img_scale_x": "4", //宽
+            "img_scale_y": "3", //高
+            "img_transition": "fade", //图片动画效果
+            "img_speed": 1000, //效果显示速度
+            "img_easing": "easeOutQuart", //动画效果
+            //大图高清裁剪, 普通：normal; 高清： hd; 裁剪: cut; 高清和裁剪： both;
+            "img_display_type": "cut",
+            "box_nav_style_1": "e_box-000",
+            "box_nav_style_0": "e_box",
+            "box_nav_style_2": "p_ThumbnailBox",
+            "e_nav_img_style_1": "e_ProductRelationImg-001",
+            "e_nav_img_style_0": "e_relationimg",
+            "e_nav_img_style_2": "p_thumbnail",
+            "nav_display_status": true, //规格图是否显示，true-显示，false-隐藏
+            "nav_type": "block",
+            "nav_img_display_type": "cut", // 显示状态， 普通：normal; 高清： hd; 裁剪: cut; 高清和裁剪： both;
+            //规格图宽高比例
+            "nav_scale_x": "4", //宽
+            "nav_scale_y": "3", //高
+            "nav_display_num": "6", //焦点图显示数量
+            "nav_position": "center", //焦点小图位置
+            "nav_display_padding": 10,
+            "nav_step": 1, //切换个数
+            "nav_hover": true,
+            /*标记*/
+            "box_tag_style_0": "e_box",
+            "box_tag_style_1": "e_box-000",
+            "box_tag_style_2": "p_TagBox",
+            "e_img_tag_style_0": "e_image",
+            "e_img_tag_style_2": "p_tag",
+            "e_img_tag_style_1": "e_image-000",
+            "img_tag_display": true, //true 显示标记，false 隐藏标记
+            "shiftUpAnimSwitch": false, //是否显示轮播图dom true显示，false不显示
+            "img_tag_display_type": "cut", //产品标记 显示状态， 普通：normal; 高清： hd; 裁剪: cut; 高清和裁剪： both;
+            //移上动画的配置参数
+            //图片遮罩层
+            "box_shade_style_0": "e_MatteBox",
+            "box_shade_style_1": "e_MatteBox-001",
+            "box_shade_style_2": "p_matteA",
+            //动画外层
+            "box_animatOuter_style_0": "e_MatteBox",
+            "box_animatOuter_style_1": "e_MatteBox-000",
+            "box_animatOuter_style_2": "p_matte",
+            //动画位置层
+            "box_Position_style_0": "e_box",
+            "box_Position_style_1": "e_PositionBox-001",
+            "box_Position_style_2": "p_Position",
+            "comp_type": "productList", //组件类型
+        },
+        sortParams: {
+            "DEFAULT_SORT": {
+                "v": "默认",
+                "title": "默认",
+                "style": ""
+            },
+            "PUBLISH_TIME": {
+                "show": true,
+                "v": "发布时间",
+                "title": "按产品的发布时间进行排序",
+                "style": ""
+            },
+            "PRODUCT_NAME": {
+                "show": true,
+                "v": " 产品名称",
+                "title": "按照产品的名称进行排序",
+                "style": ""
+            },
+            "PVS": {
+                "show": false,
+                "v": "浏览量",
+                "title": "按产品的浏览量进行排序",
+                "style": ""
+            },
+            "comment": {
+                "show": false,
+                "v": "评论数量",
+                "title": "按照产品的评论数量进行排序",
+                "style": ""
+            },
+            "PRODUCT_CODE": {
+                "show": true,
+                "v": "产品编号",
+                "title": "按产品的编号进行排序",
+                "style": ""
+            }
+        },
+        styleId: "c_portalResProduct_list-01001"
+    });
+</script>
+</div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div><div id="c_portalResPublic_codeContainer-15961598684726408" class="c_portalResPublic_codeContainer-01001"> 
+<div class="e_box"></div>
+<script>
+$comp({
+	 	id:"portalResPublic_codeContainer-15961598684726408",//实例id 服务器传
+	  	lib:["js/portalPublic/portalResPublic_codeContainer-01"] //组件js
+});
+</script> 
+<style>
+@media only screen and (max-width: 768px){
+  #w_fimg-1590479980689{margin:0 auto;}
+  #w_common_text-1590479980692{margin:0 auto;text-align:center;}
+    #w_common_text-1590479980692 p{margin:10px auto;text-align:center!important;}
+}
+  </style></div></div>       </div>  </div></div><div id="w_grid-1616999193787" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193787-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1616999193793" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193793-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_grid-1616999193801" class="w_grid-000"><div class="w_grid ">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193801-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="c_portalResnav_main-16169992262823915" class="c_portalResnav_main-01001016"> 
+<nav class="bnav">
+  <div class="box">
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/" class="botLink blink">首页</a>
+          </dt>
+                </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/profile.html" class="botLink blink">关于昌茂</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/profile.html" class="botLinkS blink">公司概况</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/honor.html" class="botLinkS blink">荣誉资质</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/honor1.html" class="botLinkS blink">发展历程</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/cuture.html" class="botLinkS blink">企业愿景</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/16.html" class="botLinkS blink">企业风采</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/17.html" class="botLinkS blink">合作单位</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/honor11.html" class="botLinkS blink">人才招聘</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/contact.html" class="botLinkS blink">联系我们</a>
+          </dd>
+                          </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/product/5/" class="botLink blink">业务范围</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/product/6/" class="botLinkS blink">新能源汽车充电站建设</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/product/7/" class="botLinkS blink">新能源汽车充电桩运营及技术服务</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/product/8/" class="botLinkS blink">新能源汽车租售</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/product/9/" class="botLinkS blink">新能源汽车充电信息化平台开发运营</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/product/20/" class="botLinkS blink">摩托车充电站建设</a>
+          </dd>
+                          </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/news/1/" class="botLink blink">成功案例</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/news/6/" class="botLinkS blink">新能源汽车充电站</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/news/7/" class="botLinkS blink">新能源电动摩托车充电站</a>
+          </dd>
+                          </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/intro/10.html" class="botLink blink">定制服务</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/intro/18.html" class="botLinkS blink">车联网平台</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/10.html" class="botLinkS blink">新能源电能</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/11.html" class="botLinkS blink">售电</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/12.html" class="botLinkS blink">充换电站</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/13.html" class="botLinkS blink">电线电缆</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/14.html" class="botLinkS blink">文体用品</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/15.html" class="botLinkS blink">电池循环利用</a>
+          </dd>
+                          </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/news/2/" class="botLink blink">最新动态</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/news/3/" class="botLinkS blink">公司新闻</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/news/5/" class="botLinkS blink">团建活动</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/news/4/" class="botLinkS blink">行业资讯</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/news/9/" class="botLinkS blink">领导关怀</a>
+          </dd>
+                          </dl>
+            <dl class="botUl">
+          <dt class="botDt">
+              <a href="/intro/8.html" class="botLink blink">服务支持</a>
+          </dt>
+                              <dd class="sbotDd"> 
+              <a href="/intro/8.html" class="botLinkS blink">服务站点</a>
+          </dd>
+                    <dd class="sbotDd"> 
+              <a href="/intro/9.html" class="botLinkS blink">产品使用手册</a>
+          </dd>
+                          </dl>
+        </div>
+</nav>
+<script>
+    $("div[id^='c_portalResnav_main']").attr("loaded", "true");
+</script>
+</div></div>         <div id="content_box-1616999193801-1" class="e_box e_box-000 d_gridCell_1 p_gridCell"><div id="w_grid-1616999193805" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193805-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_common_text-1616999193814" class="reset_style"><div><h2><strong><span style="color:#FFFFFF"><span style="line-height:1.4"><span style="font-size:16px"><span style="font-family:微软雅黑">联系我们</span></span></span></span></strong></h2>
+<p> </p>
+</div></div><div id="w_common_text-1616999193817" class="reset_style"><div><p><a href="tel:400-198-5558"><span style="color:#FFFFFF"><span style="font-size:32px"><span style="font-family:微软雅黑">400-198-5558</span></span></span></a></p>
+</div></div><div id="w_common_text-1616999193819" class="reset_style"><div><p><span style="line-height:1.8"><span style="color:#aaa"><span style="font-size:14px"><span style="font-family:微软雅黑">地址：湖南省长沙市望城经济开发区金星路99号0816950栋全部</span></span></span></span></p>
+</div></div><div id="w_common_text-1616999193821" class="reset_style"><div><p><span style="font-size:14px"><span style="font-family:微软雅黑"><span style="color:#999">邮箱：</span><a href="mailto:changmao_cm@163.com"><span style="color:#999">changmao_cm@163.com</span></a></span></span></p>
+</div></div></div>       </div>  </div></div></div>         <div id="content_box-1616999193801-2" class="e_box e_box-000 d_gridCell_2 p_gridCell"><div id="w_grid-1616999193810" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193810-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_fimg-1616999193823" class="w_fimg-000"><div class="w_img animated  ">  <div class="e_box e_box-000 p_box">               <div class="e_image e_DImage-001 p_dimage">            <img src="//img202.yun300.cn/img/erweima.jpg?tenantId=229701&viewType=1&k=1670463232000"   width="100%" height="100%" />           </div>                        </div> </div></div><div id="w_common_text-1616999193828" class="reset_style"><div><p style="text-align: center;"><font color="#aaaaaa" face="微软雅黑"><span style="font-size:14px">扫一扫，关注我们公众号</span></font></p>
+</div></div></div>       </div>  </div></div></div>       </div>  </div></div></div>       </div>  </div></div><div id="w_grid-1616999193797" class="w_grid-000"><div class="w_grid signal">   <div class="e_box e_box-000 p_gridbox">         <div id="content_box-1616999193797-0" class="e_box e_box-000 d_gridCell_0 p_gridCell"><div id="w_common_text-1617094565778" class="reset_style"><div><p style="text-align:center"><span style="font-family:微软雅黑"><span style="line-height:1"><span style="font-size:12px"><span style="color:#FFFFFF">Copyright © 2021   湖南昌茂电能发展有限公司       </span><a href="{外链}"><span style="color:#FFFFFF">湘ICP备18005118号-1</span></a><span style="color:#FFFFFF">       网站建设：</span><a href="{外链}"><span style="color:#FFFFFF">中企动力</span></a><span style="color:#FFFFFF">  </span><a href="{外链}"><span style="color:#FFFFFF">长沙</span></a><span style="color:#FFFFFF">  此网站支持ipv4 ipv6双向访问</span></span></span></span></p>
+</div></div></div>       </div>  </div></div></div>       </div>  </div></div></div>
+</body>
+</html>
