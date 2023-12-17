@@ -1,4 +1,6 @@
 /code
+/site/target
+/site/web
 /dist
 /logs
 /test.py
