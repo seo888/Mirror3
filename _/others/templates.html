@@ -1,19 +1,18 @@
-<div>
-    <!-- <ul>
-        <h1>首页模板</h1>
-        {% for url in urls %}
-        <li style="list-style:decimal;">
-            <a href="{{ request.base_url }}?tem={{ url }}" target="_blank">{{url}}</a>
-        </li>
+<div style="font-family: Arial, sans-serif; margin: 0 auto; width: 80%; padding: 20px; text-align: center;">
+    <h1 style="color: #333; border-bottom: 2px solid #333;">自定义模板</h1>
+    <table style="width:100%; text-align:left; border: 1px solid #000; border-collapse: collapse;">
+        {% for name,urls in page_urls %}
+            <tr style="border: 1px solid #000; padding: 10px;">
+                <th style="text-align: left; padding: 10px; border: 1px solid #000;">{{ loop.index }}</th>
+                <td style="margin-bottom: 10px; padding: 10px; border: 1px solid #000;">
+                    <strong style="color: #555;">{{name}}</strong>
+                </td>
+                <td style="margin-bottom: 10px; padding: 10px; border: 1px solid #000;">
+                    {% for page_url in urls %}
+                    <span>✅</span><a href="{{ request.base_url }}api/tem?show={{ page_url }}" target="_blank" style="color: #007BFF; text-decoration: none;">{{page_url}}</a>
+                    {% endfor %}
+                </td>
+            </tr>
         {% endfor %}
-    </ul> -->
-
-    <ul>
-        <h1>自定义模板</h1>
-        {% for page_url in page_urls %}
-        <li style="list-style:decimal;">
-            <a href="{{ request.base_url }}api_tem?show={{ page_url }}" target="_blank">{{page_url}}</a>
-        </li>
-        {% endfor %}
-    </ul>
+    </table>
 </div>

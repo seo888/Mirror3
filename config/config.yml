@@ -2,9 +2,18 @@
   程序名称: 'web1 - Mirror V3.0 by TG@seo898'
   识别代码: 'web1' # 响应标头识别码 禁止填写中文
   TGBot-Token: 'admin.domain.com'
-  TG用户名: 'admin'
-  api-token: 'seo898'
-  激活码: 's1YQzTnpftyQUGVMHxHUig==|A6rPF7EOnnRI9tpadl1kMX8zVpfWkcsZbjGtTG99Fp8='
+  TG群组ID: ''
+  激活码: 'Q73F3OoCcI+HTBGYctPAvg==|MB0V9Z3+VAVsuBO1AVHVvkXUAoDfRoPWLEqhFQMAS9I='
+
+【Telegram机器人】: # telegram机器人设置后，将定时发送服务器状态至telegram群组
+  Bot-Token: 'admin.domain.com'
+  群组ID: ''
+
+【后台设置】: # 程序安装后，请先泛解析一个域名作为后台域名
+  后台域名: 'abcd.com' # 此域名作为程序后台域名，调用api功能、目标站调试、模板调试均会使用到本域名
+  后台用户名: 'admin'
+  后台密码: 'admin'
+  后台白名单IP: ["192.168.1.1"]
 
 【镜像设置】:
   硬盘阈值: # 达到阈值后，会关闭 “自动建站” 和 “生成内页配置” 功能，此时程序不再新增任何数据（除日志外）
@@ -73,6 +82,8 @@
     删除目标站未使用语言: true # 删除所有未被“网站配置”引用的“目标站lang”文件夹
     删除非200页面: true
     删除非200页面type: false
+    删除非200静态文件: true
+    删除非200静态文件type: true
 
 【访问策略】:
   非绑定域名访问: true
