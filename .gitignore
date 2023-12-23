@@ -1,11 +1,8 @@
+/site/target
+/site/web
+/logs
+/test.py
 /src/__pycache__
 /src/func/__pycache__
 /src/script/__pycache__
-/code
-/site/target
-/site/web
-/dist
-/logs
-/test.py
-/test.sh
-/Mirror_bak
+/seo888.github.io
