@@ -1,1 +1,0 @@
-rm -rf Mirror_bak && git clone https://oauth2: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@github.com/seo888/Mirror_bak && pyarmor gen -O dist /workspaces/codespaces-blank/Mirror_bak && rm -rf pyarmor_runtime_000000 && mv dist/pyarmor_runtime_000000 ./
