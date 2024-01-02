@@ -1,6 +1,5 @@
 {lang}:
   链接映射:  # 例子： /xinwen: /news  表示本站的“/xinwen”路径映射到目标站的“/news”
-    /my_path: /target_path
   全局替换:
     - '待替换字符串 -> 替换词'
   首页替换:
